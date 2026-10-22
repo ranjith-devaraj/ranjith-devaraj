@@ -10,9 +10,9 @@
 
 <a href="https://www.linkedin.com/in/ranjith-devaraj-python-full-stack-developer/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/ranjith-devaraj/ranjith-devaraj/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj/"><img src="https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=1d4ed8&labelColor=0f172a" alt="Profile Views" /></a>
+<a href="mailto:ranjithdevaraj28@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ranjith-s-tech-canvas.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://hits.sh/github.com/ranjith-devaraj/"><img src="https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=1d4ed8&labelColor=0f172a" alt="Profile Views" /></a>
 
 </div>
 
@@ -37,17 +37,7 @@ Welcome to my GitHub page! I'm <b>Ranjith Devaraj</b>, a final-year <b>B.Tech (A
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🤖 AI-Powered Resume Screening
-Matches resumes against job requirements using NLP and ML so recruiters can shortlist candidates faster.
-
-**Stack:** `Python` `Flask` `scikit-learn` `NLP`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
-
-  </td>
-    <td width="50%" valign="top">
+    
 
 ### 🧩 CRM Management System
 Full-stack CRM for managing customers, leads and sales workflows with a clean dashboard.
@@ -79,13 +69,44 @@ Responsive online store with product listing, cart flow and a clean shopping exp
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/E-Commerce-Website)
 
   </td>
+
+  <td width="50%" valign="top">
+
+### 🤖 AI-Powered Resume Screening
+Matches resumes against job requirements using NLP and ML so recruiters can shortlist candidates faster.
+
+**Stack:** `Python` `Flask` `scikit-learn` `NLP`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
+
+  </td>
+    <td width="50%" valign="top">
   </tr>
 </table>
 
 ## Experience 💼
 
-**Python Full Stack Developer Intern** — *7s IQ Pvt Ltd*
-Worked on full-stack features using Python backends and modern frontends, building and consuming REST APIs.
+<table>
+  <tr>
+    <td align="center" valign="middle" width="22%">
+      <h1>💼</h1>
+      <img src="https://img.shields.io/badge/INTERNSHIP-1d4ed8?style=for-the-badge" alt="Internship" /><br/><br/>
+      <img src="https://img.shields.io/badge/MMM_YYYY_–_MMM_YYYY-0f172a?style=flat-square&logo=googlecalendar&logoColor=white" alt="Duration" />
+    </td>
+    <td valign="top">
+      <h3>Python Full Stack Developer Intern</h3>
+      <b>🏢 7s IQ Pvt Ltd</b>
+      <br/><br/>
+      <ul>
+        <li>🔌 Built and integrated <b>REST APIs</b> using Python backends</li>
+        <li>🎨 Developed responsive <b>React</b> interfaces connected to those APIs</li>
+        <li>🗄️ Worked with <b>SQL databases</b> for storing and querying application data</li>
+        <li>🤝 Collaborated with <b>Git &amp; GitHub</b> using branches and pull requests</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,mysql,git&theme=dark" alt="Tech used" />
+    </td>
+  </tr>
+</table>
 
 ## Github stats 📊
 
