@@ -1,154 +1,185 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:1d4ed8,100%:06b6d4&height=200&section=header&text=Ranjith%20Devaraj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Python%20%7C%20AI%2FML%20Engineering&descSize=18&descAlignY=60" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+scalable+APIs+with+FastAPI+%26+Flask;Crafting+modern+UIs+with+React+%26+Tailwind;Shipping+containers+with+Docker;Deploying+on+AWS%2C+Vercel%2C+Render+%26+Cloudflare;Turning+ML+models+into+real+products" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ranjith-devaraj-python-full-stack-developer/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/ranjith-devaraj/ranjith-devaraj/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:ranjithdevaraj28@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://ranjith-s-tech-canvas.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://hits.sh/github.com/ranjith-devaraj/"><img src="https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=1d4ed8&labelColor=0f172a" alt="Profile Views" /></a>
-
-</div>
-
-<br/>
-
-<p align="justify">
-Welcome to my GitHub page! I'm <b>Ranjith Devaraj</b>, a final-year <b>B.Tech (AI &amp; Data Science)</b> student at Erode Sengunthar Engineering College (2023–2027) and a <b>Python Full Stack Developer Intern at 7s IQ Pvt Ltd</b>. I build end-to-end web applications with Python backends (FastAPI, Flask), REST APIs and React frontends, and I'm growing into ML engineering — taking models from a notebook to a deployed API. I containerize with Docker and deploy on AWS, Vercel, Render and Cloudflare. I'm currently looking for <b>fresher / entry-level</b> software development roles and internships.
-</p>
-
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
-<table>
-  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/><sub>Python</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub>JavaScript</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub>TypeScript</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/><sub>PHP</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/><sub>HTML</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/><sub>CSS</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub>React</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/><sub>Tailwind</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/><sub>Bootstrap</sub></td></tr>
-  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br/><sub>FastAPI</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub>Flask</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub>Node.js</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br/><sub>Express</sub></td><td align="center" width="11%"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="REST API" /><br/><sub>REST API</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/><sub>MySQL</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/><sub>MongoDB</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br/><sub>SQLite</sub></td></tr>
-  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><sub>Docker</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub>AWS</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/><sub>Vercel</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br/><sub>Cloudflare</sub></td><td align="center" width="11%"><img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" /><br/><sub>Render</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub>Git</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub>GitHub</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub>Linux</sub></td></tr>
-  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br/><sub>Postman</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/><sub>VS Code</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br/><sub>Pandas</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br/><sub>NumPy</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br/><sub>Scikit-learn</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/><sub>TensorFlow</sub></td><td></td><td></td><td></td></tr>
-</table>
-
-## Featured Projects 🚀
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 AI-Powered Resume Screening
-Matches resumes against job requirements using NLP and ML so recruiters can shortlist candidates faster.
-
-**Stack:** `Python` `Flask` `scikit-learn` `NLP`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🧩 CRM Management System
-Full-stack CRM for managing customers, leads and sales workflows with a clean dashboard.
-
-**Stack:** `React` `REST API` `Python` `SQL`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/crm-management-system)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📍 Staff Attendance System
-Attendance tracking with browser-based geolocation checks and email OTP verification.
-
-**Stack:** `Python` `Flask` `Geolocation API` `SMTP`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/staff_attendance_system)
-
-  </td>
-    <td width="50%" valign="top">
-
-### 🛒 E-Commerce Website
-Responsive online store with product listing, cart flow and a clean shopping experience.
-
-**Stack:** `HTML` `CSS` `JavaScript` `React`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/E-Commerce-Website)
-
-  </td>
-  </tr>
-</table>
-
-## Experience 💼
-
-<table>
-  <tr>
-    <td align="center" valign="middle" width="22%">
-      <h1>💼</h1>
-      <img src="https://img.shields.io/badge/INTERNSHIP-1d4ed8?style=for-the-badge" alt="Internship" /><br/><br/>
-      <img src="https://img.shields.io/badge/01_2026_–_04_2026-0f172a?style=flat-square&logo=googlecalendar&logoColor=white" alt="Duration" />
-    </td>
-    <td valign="top">
-      <h3>Python Full Stack Developer Intern</h3>
-      <b>🏢 7s IQ Pvt Ltd</b>
-      <br/><br/>
-      <ul>
-        <li>🔌 Built and integrated <b>REST APIs</b> using Python backends</li>
-        <li>🎨 Developed responsive <b>React</b> interfaces connected to those APIs</li>
-        <li>🗄️ Worked with <b>SQL databases</b> for storing and querying application data</li>
-        <li>🤝 Collaborated with <b>Git &amp; GitHub</b> using branches and pull requests</li>
-      </ul>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,mysql,git&theme=dark" alt="Tech used" />
-    </td>
-  </tr>
-</table>
-
-## Github stats 📊
-
-<details open>
-<summary>GitHub Profile Stats 📈</summary>
-<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ranjith-devaraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranjith-devaraj&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-devaraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-devaraj&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=180&section=header&text=Ranjith%20Devaraj&fontSize=42&fontColor=E6EDF3&fontAlignY=38&desc=Python%20%7C%20Backend%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=C9D1D9&descAlignY=60" alt="Ranjith Devaraj"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+reliable+backend+services;Developing+Python+applications;Connecting+APIs%2C+databases+and+UIs;Learning+through+real+engineering+projects" alt="Animated developer introduction"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ranjith-devaraj&hide_border=true" alt="GitHub Streak" />
+[LinkedIn](https://www.linkedin.com/in/ranjith-devaraj-python-full-stack-developer/) · [Portfolio](https://ranjith-s-tech-canvas.onrender.com/) · [Email](mailto:ranjithdevaraj28@gmail.com) · [Repositories](https://github.com/ranjith-devaraj?tab=repositories)
 
 </div>
 
-</details>
+---
+
+## About Me
+
+I'm Ranjith Devaraj, a B.Tech Artificial Intelligence and Data Science student at Erode Sengunthar Engineering College, graduating in 2027.
+
+I have internship experience in Python full-stack development at 7s IQ Pvt Ltd. I enjoy building web applications, developing backend services, integrating REST APIs, and working with databases.
+
+My interests span three closely related areas:
+
+- **Backend Development:** API design, server-side logic, database integration, and application reliability.
+- **Python Development:** Web applications, automation, data processing, and practical problem-solving.
+- **Full Stack Development:** Connecting responsive frontend interfaces with backend services and persistent data.
+
+I'm looking for software development internships and entry-level opportunities where I can contribute to real projects and continue developing strong engineering fundamentals.
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=8B949E)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=E6EDF3)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=E6EDF3)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=003B57)
+
+**Data Science & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=E6EDF3)
+![NumPy](https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+
+**Tools & Development Workflow**
+
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37)
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CRM Management System
+
+A customer relationship management project focused on organizing customer information and supporting lead-management workflows.
+
+**Engineering focus:** Business workflows and customer data.
+
+[View source code →](https://github.com/ranjith-devaraj/crm-management-system)
+
+</td>
+<td width="50%" valign="top">
+
+### AI-Powered Resume Screening
+
+A Python-based project exploring resume screening and matching candidate information against job requirements.
+
+**Engineering focus:** Python, Flask, and machine learning.
+
+[View source code →](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Staff Attendance System
+
+An attendance management project featuring browser-based geolocation functionality and email OTP verification.
+
+**Engineering focus:** Backend workflows and verification.
+
+[View source code →](https://github.com/ranjith-devaraj/staff_attendance_system)
+
+</td>
+<td width="50%" valign="top">
+
+### E-Commerce Website
+
+A web development project focused on product listings and the online shopping experience.
+
+**Engineering focus:** Frontend development and product presentation.
+
+[View source code →](https://github.com/ranjith-devaraj/E-Commerce-Website)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Experience
+
+### Python Full Stack Developer Intern
+**7s IQ Pvt Ltd** · January 2026 – April 2026
+
+- Worked on Python backend development and REST API integration.
+- Developed frontend features connected to backend services.
+- Worked with SQL databases to store and retrieve application data.
+- Used Git and GitHub for version control and development workflows.
+- Practised debugging and troubleshooting application issues.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranjith-devaraj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-devaraj&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" alt="Most used languages"/>
+
+</div>
 
 <details>
-<summary>Contribution Activity 🐍</summary>
-<br/>
+<summary>Contribution activity</summary>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
 
 </div>
 
 </details>
 
-<br/>
+---
+
+## Contact
+
+I'm interested in Python development, backend engineering, full-stack applications, and early-career software engineering opportunities.
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ranjith-devaraj-python-full-stack-developer/)
+- **Email:** [ranjithdevaraj28@gmail.com](mailto:ranjithdevaraj28@gmail.com)
+- **Portfolio:** [View my portfolio](https://ranjith-s-tech-canvas.onrender.com/)
+- **GitHub:** [@ranjith-devaraj](https://github.com/ranjith-devaraj)
+
+---
 
 <div align="center">
 
-*"Build. Learn. Ship. Repeat."* 🚀
+<sub>Build useful software. Write maintainable code. Keep learning.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50%:1d4ed8,100%:0f172a&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,100:0D1117&height=85&section=footer" alt="Charcoal footer"/>
 
 </div>
