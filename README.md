@@ -6,92 +6,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+scalable+APIs+with+FastAPI+%26+Flask;Crafting+modern+UIs+with+React+%26+Tailwind;Shipping+containers+with+Docker;Deploying+on+AWS%2C+Vercel%2C+Render+%26+Cloudflare;Turning+ML+models+into+real+products" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ranjith-devaraj-python-full-stack-developer/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ranjith-devaraj/ranjith-devaraj/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj/"><img src="https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=1d4ed8&labelColor=0f172a" alt="Profile Views" /></a>
+
+</div>
+
 <br/>
 
-[![Profile Views](https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj.svg?style=for-the-badge&label=Profile%20Views&color=1d4ed8&labelColor=0f172a)](https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj/)
-[![GitHub followers](https://img.shields.io/github/followers/ranjith-devaraj?style=for-the-badge&logo=github&color=181717)](https://github.com/ranjith-devaraj)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Fresher%20Roles-22c55e?style=for-the-badge)](#-lets-connect)
+<p align="justify">
+Welcome to my GitHub page! I'm <b>Ranjith Devaraj</b>, a final-year <b>B.Tech (AI &amp; Data Science)</b> student at Erode Sengunthar Engineering College (2023–2027) and a <b>Python Full Stack Developer Intern at 7s IQ Pvt Ltd</b>. I build end-to-end web applications with Python backends (FastAPI, Flask), REST APIs and React frontends, and I'm growing into ML engineering — taking models from a notebook to a deployed API. I containerize with Docker and deploy on AWS, Vercel, Render and Cloudflare. I'm currently looking for <b>fresher / entry-level</b> software development roles and internships.
+</p>
 
-</div>
+## My favorite tools and technologies ⚙️
 
----
+> Tools and technologies that I have worked with and am interested in
 
-## 👨‍💻 About Me
+<table>
+  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/><sub>Python</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub>JavaScript</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub>TypeScript</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/><sub>PHP</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/><sub>HTML</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/><sub>CSS</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub>React</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/><sub>Tailwind</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/><sub>Bootstrap</sub></td></tr>
+  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br/><sub>FastAPI</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub>Flask</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub>Node.js</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br/><sub>Express</sub></td><td align="center" width="11%"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="REST API" /><br/><sub>REST API</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/><sub>MySQL</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/><sub>MongoDB</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br/><sub>SQLite</sub></td></tr>
+  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><sub>Docker</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub>AWS</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/><sub>Vercel</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br/><sub>Cloudflare</sub></td><td align="center" width="11%"><img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" /><br/><sub>Render</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub>Git</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub>GitHub</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub>Linux</sub></td></tr>
+  <tr><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br/><sub>Postman</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/><sub>VS Code</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br/><sub>Pandas</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br/><sub>NumPy</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br/><sub>Scikit-learn</sub></td><td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/><sub>TensorFlow</sub></td><td></td><td></td><td></td></tr>
+</table>
 
-I'm a final-year **B.Tech (AI & Data Science)** student at **Erode Sengunthar Engineering College (2023–2027)** and a **Python Full Stack Developer Intern at 7s IQ Pvt Ltd**. I build end-to-end products — from REST APIs and databases to polished React frontends — and containerize and deploy them to the cloud.
-
-```python
-class Ranjith:
-    role      = "Full Stack Developer (Python) & ML Enthusiast"
-    education = "B.Tech AI & Data Science, 2023–2027"
-    intern_at = "7s IQ Pvt Ltd"
-    stack     = ["Python", "FastAPI", "Flask", "React", "Node.js", "Docker"]
-    cloud     = ["AWS", "Vercel", "Render", "Cloudflare"]
-    focus     = ["Backend Engineering", "REST APIs", "ML Engineering", "Clean UI"]
-    looking_for = "Software development roles & internships (Fresher)"
-```
-
-- 🚀 Building production-style full-stack apps with clean architecture
-- 🤖 Exploring ML engineering: training, evaluating and serving models via APIs
-- ☁️ Learning cloud-native deployment, CI/CD and containerization
-- 🎯 Seeking **entry-level / fresher** opportunities as a Python Full Stack Developer
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css&theme=dark" alt="Languages" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,ts&theme=dark" alt="Frontend" />
-
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postman&theme=dark" alt="Backend" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Databases" />
-
-### 🤖 AI / ML Engineering
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow&theme=dark" alt="AI ML" />
-
-### ☁️ DevOps, Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare,githubactions,linux&theme=dark" alt="DevOps" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-## 🏗️ How I Build & Ship
-
-```mermaid
-flowchart LR
-    A[React + Tailwind<br/>Frontend] -->|REST / JSON| B[FastAPI · Flask · Node.js<br/>Backend APIs]
-    B --> C[(PostgreSQL · MySQL · MongoDB)]
-    B --> D[ML Models<br/>scikit-learn · TensorFlow]
-    B --> E[Docker<br/>Containers]
-    E --> F[AWS · Render]
-    A --> G[Vercel · Cloudflare]
-```
-
-| Layer | What I use |
-|---|---|
-| **Frontend** | React, Tailwind CSS, deployed on **Vercel** / **Cloudflare** |
-| **Backend** | FastAPI, Flask, Node.js/Express with REST design & JWT auth |
-| **Data** | PostgreSQL, MySQL, MongoDB, SQLite |
-| **ML Serving** | Models trained in scikit-learn/TensorFlow, exposed through FastAPI endpoints |
-| **Packaging** | Docker & Docker Compose |
-| **Hosting** | AWS, Render, Vercel, Cloudflare (DNS / CDN) |
-
----
-
-## 🚀 Featured Projects
+## Featured Projects 🚀
 
 <table>
   <tr>
@@ -140,38 +82,39 @@ Responsive online store with product listing, cart flow and a clean shopping exp
   </tr>
 </table>
 
----
-
-## 💼 Experience
+## Experience 💼
 
 **Python Full Stack Developer Intern** — *7s IQ Pvt Ltd*
 Worked on full-stack features using Python backends and modern frontends, building and consuming REST APIs.
 
----
+## Github stats 📊
 
-## 🎯 Currently Leveling Up
-
-- 🐳 Docker & multi-stage builds for production images
-- ☁️ AWS fundamentals (EC2, S3, IAM) and CI/CD with GitHub Actions
-- ⚡ Advanced FastAPI: async, dependency injection, background tasks
-- 🧠 ML engineering: model packaging, evaluation and serving
-
----
-
-## 📊 GitHub Stats
+<details open>
+<summary>GitHub Profile Stats 📈</summary>
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranjith-devaraj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-devaraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ranjith-devaraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranjith-devaraj&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-devaraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-devaraj&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ranjith-devaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=ranjith-devaraj&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-### 🐍 Contribution Activity
+</details>
+
+<details>
+<summary>Contribution Activity 🐍</summary>
+<br/>
 
 <div align="center">
 
@@ -179,18 +122,11 @@ Worked on full-stack features using Python backends and modern frontends, buildi
 
 </div>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ranjith--devaraj-181717?style=for-the-badge&logo=github)](https://github.com/ranjith-devaraj/ranjith-devaraj/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-devaraj-python-full-stack-developer/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.vercel.app)
+</details>
 
 <br/>
+
+<div align="center">
 
 *"Build. Learn. Ship. Repeat."* 🚀
 
