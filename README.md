@@ -37,7 +37,17 @@ Welcome to my GitHub page! I'm <b>Ranjith Devaraj</b>, a final-year <b>B.Tech (A
 
 <table>
   <tr>
-    
+    <td width="50%" valign="top">
+
+### 🤖 AI-Powered Resume Screening
+Matches resumes against job requirements using NLP and ML so recruiters can shortlist candidates faster.
+
+**Stack:** `Python` `Flask` `scikit-learn` `NLP`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
+
+  </td>
+    <td width="50%" valign="top">
 
 ### 🧩 CRM Management System
 Full-stack CRM for managing customers, leads and sales workflows with a clean dashboard.
@@ -69,18 +79,6 @@ Responsive online store with product listing, cart flow and a clean shopping exp
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/E-Commerce-Website)
 
   </td>
-
-  <td width="50%" valign="top">
-
-### 🤖 AI-Powered Resume Screening
-Matches resumes against job requirements using NLP and ML so recruiters can shortlist candidates faster.
-
-**Stack:** `Python` `Flask` `scikit-learn` `NLP`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
-
-  </td>
-    <td width="50%" valign="top">
   </tr>
 </table>
 
