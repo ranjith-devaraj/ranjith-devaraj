@@ -89,7 +89,7 @@ Responsive online store with product listing, cart flow and a clean shopping exp
     <td align="center" valign="middle" width="22%">
       <h1>💼</h1>
       <img src="https://img.shields.io/badge/INTERNSHIP-1d4ed8?style=for-the-badge" alt="Internship" /><br/><br/>
-      <img src="https://img.shields.io/badge/MMM_YYYY_–_MMM_YYYY-0f172a?style=flat-square&logo=googlecalendar&logoColor=white" alt="Duration" />
+      <img src="https://img.shields.io/badge/01_2026_–_04_2026-0f172a?style=flat-square&logo=googlecalendar&logoColor=white" alt="Duration" />
     </td>
     <td valign="top">
       <h3>Python Full Stack Developer Intern</h3>
