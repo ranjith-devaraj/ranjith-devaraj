@@ -35,12 +35,33 @@ Building useful software, learning new technologies, and solving real-world prob
 
 **AI & Data:** Pandas, NumPy, Scikit-learn, TensorFlow
 
+
 ## 🚀 Featured Projects
 
-- [CRM Management System](https://github.com/ranjith-devaraj/crm-management-system)
-- [AI-Powered Resume Screening](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
-- [Staff Attendance System](https://github.com/ranjith-devaraj/staff_attendance_system)
-- [E-Commerce Website](https://github.com/ranjith-devaraj/E-Commerce-Website)
+### 🧩 CRM Management System
+A customer relationship management application designed to organize customer information and streamline lead-management workflows.
+
+- **Focus:** CRM workflows and customer management
+- **Repository:** [View source code](https://github.com/ranjith-devaraj/crm-management-system)
+
+### 🤖 AI-Powered Resume Screening
+An AI-focused project exploring resume screening and candidate matching against job requirements.
+
+- **Focus:** Python, Flask, and AI-assisted recruitment
+- **Repository:** [View source code](https://github.com/ranjith-devaraj/AI-powered-Resume-Screening)
+
+### 📍 Staff Attendance System
+An attendance management application featuring browser-based location functionality and email OTP verification.
+
+- **Focus:** Python, Flask, attendance workflows
+- **Repository:** [View source code](https://github.com/ranjith-devaraj/staff_attendance_system)
+
+### 🛒 E-Commerce Website
+A web development project focused on presenting products and creating a straightforward online shopping experience.
+
+- **Focus:** Frontend development and product presentation
+- **Repository:** [View source code](https://github.com/ranjith-devaraj/E-Commerce-Website)
+
 
 ## 🤝 Connect With Me
 
