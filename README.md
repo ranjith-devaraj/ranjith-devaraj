@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ranjith-devaraj&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS)
+[![Profile Views](https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj.svg?style=for-the-badge&label=Profile%20Views&color=1d4ed8&labelColor=0f172a)](https://hits.sh/github.com/ranjith-devaraj/ranjith-devaraj/)
 [![GitHub followers](https://img.shields.io/github/followers/ranjith-devaraj?style=for-the-badge&logo=github&color=181717)](https://github.com/ranjith-devaraj)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Fresher%20Roles-22c55e?style=for-the-badge)](#-lets-connect)
 
